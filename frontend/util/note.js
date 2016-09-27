@@ -24,7 +24,7 @@ class Note {
   }
 
   start() {
-    this.gainNode.gain.value = 0.3;
+    this.gainNode.gain.value = 1;
   }
 
   stop() {
